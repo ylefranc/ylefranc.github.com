@@ -11,3 +11,16 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+.powrc
+.rbenv-version
+.rvmrc
+.slugignore
+.travis.yml
+CHANGELOG.markdown
+Gemfile
+Gemfile.lock
+README.markdown
+Rakefile
+_config.yml
+config.rb
+config.ru
